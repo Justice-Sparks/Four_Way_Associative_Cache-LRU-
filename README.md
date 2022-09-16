@@ -1,4 +1,4 @@
-# Four_Way_Associative_Cache-LRU-
+# Four_Way_Associative_Cache_LRU
 This Four-way Associative Cache has a preset input (a list of addresses) to verify functionality but can be changed to handle any input.
 The preset input takes the form of hexadecimal numbers which each represent a storage address.
 This cache uses the Least Recently Used Algorithm to store data. 
